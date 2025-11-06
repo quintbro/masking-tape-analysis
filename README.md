@@ -3,7 +3,7 @@ This the the analysis that started it all! Back in 9th grade, I collected this d
 
 The main goal of this analysis is to understand and investigate the claims of the more expensive name brand: Frog tape which claims to have a "paint block" technology but is twice the price. To determine whether or not Frog tape is worth the hype and the price, I compared it against 2 popular alternatives, namely the blue 3M painters tape, and the tan standard masking tape.
 
-![Frog Tape Image](images/Frog_Tape.jpg) ![3M Tape Image](images/3M_Tape.jpg)
+![Frog Tape Image](images/frog_tape.jpg) ![3M Tape Image](images/3M_Tape_better.jpg)
 
 ## The Experiment Design
 ### Factors and Treatments
