@@ -17,12 +17,10 @@ These two factors led to six unique treatment combinations (Frog/Textured, Frog/
 ### Blocking and Randomization
 For the experiment I used 20 different 30 cm x 30 cm flat wooden boards. Half of them were sprayed with wall texture, and the other half were left as is. I put 3 strips of tape (one for each brand) each spaced exactly 5 cm apart in a random order on each board. I then used a paint roller to put two layers of dark brown Clark & Kensington interior latex paint on each of the 20 boards.
 
-<img src="images/unpainted_board_tape.jpg" alt="Unpainted Boards with Tape" width="45%">
+<img src="images/unpainted_board_tape.jpg" alt="Unpainted Boards with Tape" width="20%"> <img src="images/painted_boards.jpg" alt="Painted Boards" width="20%">
 
 ### Procedure and Controls
 After the first layer of paint was applied, I waited exactly 2 hours (as recomended by the paint manufacturer) before applying a second coat. The second coat was then left to dry for 24 hours before attempting to remove the masking tape. For each tape strip, I removed the tape maintaining a 180 degree angle to ensure consistency. 
-
-<img src="images/painted_boards.jpg" alt="Painted Boards" width="45%">
 
 ### Response Variable
 For each board and paint strip, I counted and recorded the number of times that paint seeped underneath the tape and on the board beneath and ranked the severity of the seepages on a scale of 1-10.
